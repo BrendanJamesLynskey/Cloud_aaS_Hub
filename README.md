@@ -1,3 +1,10 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
+
+
+
 # Cloud Service Models — `*aaS`
 
 A six-deck presentation series on cloud service models — **IaaS / PaaS / SaaS / CaaS / FaaS / AIaaS** — with deep coverage of architecture, deployment, security and the LLM-as-a-Service landscape. Companion to the wider [Software](https://github.com/BrendanJamesLynskey/Software) index.
